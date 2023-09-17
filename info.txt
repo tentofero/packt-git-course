@@ -3,3 +3,5 @@ Argh!
 sdaf
 tesafdas
 remote stashing reset test
+local stashing reset test
+
